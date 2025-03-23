@@ -67,3 +67,8 @@ This project provides an in-depth analysis of YouTube channel statistics to iden
 1. Clone the repository:
    ```bash
    git clone https://github.com/MrGenius18/Youtube_Channel_Analysis.git
+2. Open YT channel Dashboard.pbix in Power BI to interact with the dashboard.
+
+3. Review Power-BI-Capstone.pdf for an in-depth analysis.
+
+4. Preview the dashboard using YT channel Dashboard.pdf.

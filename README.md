@@ -44,7 +44,7 @@ Here’s a quick rundown of what you’ll find in this repo:
 ---
 
 ## 🎥 Dashboard Snapshot
-![Dashboard Preview](youtube_PNG13.png)
+![Dashboard Preview](https://github.com/MrGenius18/Youtube_Channel_Analysis/blob/ba108304db9383df5eba9ed8cd0655f3c7b380a9/Presentation/YouTube%20Channel%20Analysis%20Dashboard.png)
 
 ---
 
